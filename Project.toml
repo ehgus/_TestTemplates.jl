@@ -1,0 +1,7 @@
+name = "_TestTemplates"
+uuid = "53ab2121-0669-477c-8d88-081f5e08c6b7"
+authors = ["Dohyeon Lee <dleh428@kaist.ac.kr>"]
+version = "0.1.0"
+
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
